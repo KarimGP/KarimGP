@@ -2,7 +2,7 @@ Hi! Nice to see you 👋
 
 I'm Karim. I'm a data analyst delving into data science. I'm highly motivated to continue learning about this world and taking on new challenges.
 
-Contact me at karimkgp@gmail.com
+You can contact me at karimkgp@gmail.com
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
