@@ -1,4 +1,4 @@
-Hey, Nice to see you 👋 
+Hi! Nice to see you 👋 
 
 I'm Karim. I'm a data analyst delving into data science. I'm highly motivated to continue learning about this world and taking on new challenges.
 
