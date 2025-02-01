@@ -1,6 +1,6 @@
-Hi! Nice to see you 👋 
+Hi! 👋 
 
-I'm Karim. I'm a data analyst delving into data science. I'm highly motivated to continue learning about this world and taking on new challenges.
+I'm Karim. I'm a data analyst delving into data science with technical architecture background. I'm highly motivated to continue learning about big data and taking on new challenges.
 
 You can contact me at karimkgp@gmail.com
 
